@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-TypeScript-Gobang/static/css/main.f26ce748.chunk.css",
+    "main.js": "/React-TypeScript-Gobang/static/js/main.ee7e7e55.chunk.js",
+    "main.js.map": "/React-TypeScript-Gobang/static/js/main.ee7e7e55.chunk.js.map",
+    "runtime-main.js": "/React-TypeScript-Gobang/static/js/runtime-main.19876e7f.js",
+    "runtime-main.js.map": "/React-TypeScript-Gobang/static/js/runtime-main.19876e7f.js.map",
+    "static/js/2.39726ae0.chunk.js": "/React-TypeScript-Gobang/static/js/2.39726ae0.chunk.js",
+    "static/js/2.39726ae0.chunk.js.map": "/React-TypeScript-Gobang/static/js/2.39726ae0.chunk.js.map",
+    "static/js/3.de3e7054.chunk.js": "/React-TypeScript-Gobang/static/js/3.de3e7054.chunk.js",
+    "static/js/3.de3e7054.chunk.js.map": "/React-TypeScript-Gobang/static/js/3.de3e7054.chunk.js.map",
+    "index.html": "/React-TypeScript-Gobang/index.html",
+    "static/css/main.f26ce748.chunk.css.map": "/React-TypeScript-Gobang/static/css/main.f26ce748.chunk.css.map",
+    "static/js/2.39726ae0.chunk.js.LICENSE.txt": "/React-TypeScript-Gobang/static/js/2.39726ae0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19876e7f.js",
+    "static/js/2.39726ae0.chunk.js",
+    "static/css/main.f26ce748.chunk.css",
+    "static/js/main.ee7e7e55.chunk.js"
+  ]
+}
